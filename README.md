@@ -1,5 +1,3 @@
-
-
 ##### 切换环境
 conda activate point
 cd /home/xiewei/home/xiewei/250t_process/ouyangshiyu/semi
