@@ -1,0 +1,1 @@
+from .movenet_config import config_loc
